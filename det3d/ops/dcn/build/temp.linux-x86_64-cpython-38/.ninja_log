@@ -1,0 +1,7 @@
+# ninja log v5
+1	47116	1709092966078258896	/data/nuscenes/BEV/mit-bevfusion/NVIDIA-AI-IOT/Lidar_AI_Solution/CUDA-CenterPoint/CenterPoint/det3d/ops/dcn/build/temp.linux-x86_64-cpython-38/src/deform_conv_cuda_kernel.o	ca02970866f686f1
+27	119257	1709093403853545773	/data/nuscenes/BEV/mit-bevfusion/NVIDIA-AI-IOT/Lidar_AI_Solution/CUDA-CenterPoint/CenterPoint/det3d/ops/dcn/build/temp.linux-x86_64-cpython-38/src/deform_conv_cuda.o	a4207c705729369b
+37	43186	1709110517949981574	/data/nuscenes/BEV/mit-bevfusion/NVIDIA-AI-IOT/Lidar_AI_Solution/CUDA-CenterPoint/CenterPoint/det3d/ops/dcn/build/temp.linux-x86_64-cpython-38/src/deform_conv_cuda_kernel.o	ca02970866f686f1
+36	108509	1709110583266744535	/data/nuscenes/BEV/mit-bevfusion/NVIDIA-AI-IOT/Lidar_AI_Solution/CUDA-CenterPoint/CenterPoint/det3d/ops/dcn/build/temp.linux-x86_64-cpython-38/src/deform_conv_cuda.o	a4207c705729369b
+42	39775	1709373148394250827	/data/nuscenes/BEV/mit-bevfusion/NVIDIA-AI-IOT/Lidar_AI_Solution/CUDA-CenterPoint/CenterPoint/det3d/ops/dcn/build/temp.linux-x86_64-cpython-38/src/deform_conv_cuda_kernel.o	b7b1a63f3e3c64a5
+41	100297	1709373208882554973	/data/nuscenes/BEV/mit-bevfusion/NVIDIA-AI-IOT/Lidar_AI_Solution/CUDA-CenterPoint/CenterPoint/det3d/ops/dcn/build/temp.linux-x86_64-cpython-38/src/deform_conv_cuda.o	a4207c705729369b

@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICE=0,1,2,3 python tools/demo.py 
