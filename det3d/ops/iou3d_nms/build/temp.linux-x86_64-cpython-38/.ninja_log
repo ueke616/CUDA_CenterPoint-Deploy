@@ -1,0 +1,12 @@
+# ninja log v5
+3	5983	1709091985051409595	/data/nuscenes/BEV/mit-bevfusion/NVIDIA-AI-IOT/Lidar_AI_Solution/CUDA-CenterPoint/CenterPoint/det3d/ops/iou3d_nms/build/temp.linux-x86_64-cpython-38/src/iou3d_nms_kernel.o	ad8766f63cc7f57
+2	114836	1709092093825434686	/data/nuscenes/BEV/mit-bevfusion/NVIDIA-AI-IOT/Lidar_AI_Solution/CUDA-CenterPoint/CenterPoint/det3d/ops/iou3d_nms/build/temp.linux-x86_64-cpython-38/src/iou3d_nms.o	21c16f6c4baffd66
+0	118469	1709092097473372076	/data/nuscenes/BEV/mit-bevfusion/NVIDIA-AI-IOT/Lidar_AI_Solution/CUDA-CenterPoint/CenterPoint/det3d/ops/iou3d_nms/build/temp.linux-x86_64-cpython-38/src/iou3d_cpu.o	b6e527a4e8932465
+2	119613	1709092098613352555	/data/nuscenes/BEV/mit-bevfusion/NVIDIA-AI-IOT/Lidar_AI_Solution/CUDA-CenterPoint/CenterPoint/det3d/ops/iou3d_nms/build/temp.linux-x86_64-cpython-38/src/iou3d_nms_api.o	73467ba89a27616e
+39	108085	1709110697752003224	/data/nuscenes/BEV/mit-bevfusion/NVIDIA-AI-IOT/Lidar_AI_Solution/CUDA-CenterPoint/CenterPoint/det3d/ops/iou3d_nms/build/temp.linux-x86_64-cpython-38/src/iou3d_nms_api.o	73467ba89a27616e
+37	108109	1709110697768003393	/data/nuscenes/BEV/mit-bevfusion/NVIDIA-AI-IOT/Lidar_AI_Solution/CUDA-CenterPoint/CenterPoint/det3d/ops/iou3d_nms/build/temp.linux-x86_64-cpython-38/src/iou3d_cpu.o	b6e527a4e8932465
+38	114155	1709110703808067339	/data/nuscenes/BEV/mit-bevfusion/NVIDIA-AI-IOT/Lidar_AI_Solution/CUDA-CenterPoint/CenterPoint/det3d/ops/iou3d_nms/build/temp.linux-x86_64-cpython-38/src/iou3d_nms.o	21c16f6c4baffd66
+30	4263	1709373218970605878	/data/nuscenes/BEV/mit-bevfusion/NVIDIA-AI-IOT/Lidar_AI_Solution/CUDA-CenterPoint/CenterPoint/det3d/ops/iou3d_nms/build/temp.linux-x86_64-cpython-38/src/iou3d_nms_kernel.o	2b51af26d7afcfa6
+29	84619	1709373299283012802	/data/nuscenes/BEV/mit-bevfusion/NVIDIA-AI-IOT/Lidar_AI_Solution/CUDA-CenterPoint/CenterPoint/det3d/ops/iou3d_nms/build/temp.linux-x86_64-cpython-38/src/iou3d_nms_api.o	73467ba89a27616e
+29	87334	1709373301991026571	/data/nuscenes/BEV/mit-bevfusion/NVIDIA-AI-IOT/Lidar_AI_Solution/CUDA-CenterPoint/CenterPoint/det3d/ops/iou3d_nms/build/temp.linux-x86_64-cpython-38/src/iou3d_nms.o	21c16f6c4baffd66
+28	88258	1709373302899031189	/data/nuscenes/BEV/mit-bevfusion/NVIDIA-AI-IOT/Lidar_AI_Solution/CUDA-CenterPoint/CenterPoint/det3d/ops/iou3d_nms/build/temp.linux-x86_64-cpython-38/src/iou3d_cpu.o	b6e527a4e8932465
